@@ -4,9 +4,7 @@
     "keywords": [
         "modules",
         "laravel",
-        "module",
-        "rad",
-        "crater"
+        "module"
     ],
     "license": "MIT",
     "require": {
